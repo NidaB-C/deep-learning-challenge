@@ -20,6 +20,11 @@ The neural network's architecture was meticulously designed to balance complexit
 - **Activation Functions:** The ReLU activation function was chosen for hidden layers due to its effectiveness in avoiding vanishing gradient problems and speeding up training. The sigmoid function in the output layer facilitates binary outcome prediction.
 - **Model Performance:** Initial models hovered around the 72-73% accuracy mark. Through optimization, including architectural adjustments and hyperparameter tuning, improvements were observed. However, consistently surpassing the 75% accuracy benchmark proved challenging, highlighting the complexity of the problem and the dataset's inherent limitations.
 
+<img width="592" alt="Screenshot 2024-03-11 at 8 48 46 PM" src="https://github.com/NidaB-C/deep-learning-challenge/assets/147389952/9d74d994-da60-4d1d-b0e8-4abd57c76039">
+  
+<img width="623" alt="Screenshot 2024-03-11 at 8 48 59 PM" src="https://github.com/NidaB-C/deep-learning-challenge/assets/147389952/15157e3a-2c87-4d52-9760-5e17d087bc05">
+
+
 ### Model Optimization Strategies
 
 Efforts to enhance model efficacy included:
@@ -28,9 +33,12 @@ Efforts to enhance model efficacy included:
 - **Architectural Tweaks:** Increasing the number of neurons and layers aimed to capture more complex relationships in the data. However, care was taken to avoid overfitting, which could diminish model performance on unseen data.
 - **Training Adjustments:** Experimentation with the number of epochs and batch sizes sought to find an optimal balance between sufficient learning and computational efficiency.
 
+<img width="588" alt="Screenshot 2024-03-11 at 8 45 54 PM" src="https://github.com/NidaB-C/deep-learning-challenge/assets/147389952/d1c4640d-1320-41af-8104-d7d1e16a1bf1">
+<img width="633" alt="Screenshot 2024-03-11 at 8 47 14 PM" src="https://github.com/NidaB-C/deep-learning-challenge/assets/147389952/2cdaa59d-faa4-4f8f-938d-c4f372746f33">
+
 ## Summary and Recommendations
 
-The development of the Alphabet Soup Charity funding success prediction model illustrates the potential of deep learning in enhancing philanthropic decision-making. While the model achieved moderate success, it underscores the challenges inherent in predictive modeling - particularly when aiming for high accuracy in complex, real-world scenarios.
+The development of the Alphabet Soup Charity funding success prediction model illustrates the potential of deep learning in enhancing philanthropic decision-making. While the model achieved moderate success, it underscores the challenges inherent in predictive modelling - particularly when aiming for high accuracy in complex, real-world scenarios.
 
 ### Alternative Model Recommendation
 
